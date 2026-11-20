@@ -12,6 +12,7 @@ Base commands feature shorthand aliases for rapid typing during live server mode
 |---|---|---|---|
 | `/staffshift` | `/ss`, `/duty`, `/adminduty` | `staffshift.staff` | Toggle your own staff duty mode on or off. |
 | `/staffshift <player>` | `/ss <player>`, `/duty <player>` | `staffshift.admin` | Force toggle staff duty mode for another player. |
+| `/staffshift inspect [player]` | `/ss inspect [player]` | `staffshift.staff` | Open the Player Inspector GUI for a target or yourself. |
 | `/staffshift list` | `/ss list`, `/duty list` | `staffshift.staff` | List all staff members currently clocked on duty. |
 | `/staffshift setspawn` | `/ss setspawn` | `staffshift.admin` | Set the Diamond tool spawn point to your location. |
 | `/staffshift reload` | `/ss reload` | `staffshift.admin` | Hot-reload configuration and language files. |

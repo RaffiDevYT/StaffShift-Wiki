@@ -15,7 +15,7 @@ When a moderator activates Staff Duty (`/staffshift` or `/ss`), their survival i
 | **4** | **Packed Ice** | **Right-Click Suspect:** Instantly freeze or unfreeze a targeted player to begin examination. |
 | **5** | **Execution Sword** | **Right-Click Suspect:** Instantly eliminate confirmed cheaters (*optional, enabled via `config.yml`*). |
 | **6** | **Crafting Table** | **Right-Click:** Toggle Build Mode ON/OFF to prevent accidental block griefing while inspecting bases. |
-| **7** | **Book** | **Right-Click Suspect:** Open the Live Player Inspection GUI. |
+| **7** | **Book** | **Right-Click Suspect:** Open Live Player Inspection GUI.<br>**Right-Click Air:** Open Self-Inspection GUI. |
 | **8** | **Lime / Gray Dye** | **Right-Click:** Toggle Vanish visibility state (Lime = Vanished, Gray = Visible). |
 
 ---

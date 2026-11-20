@@ -1,6 +1,6 @@
 <div align="center">
 
-![StaffShift Banner](banner.png)
+![StaffShift Banner](https://raw.githubusercontent.com/RaffiDevYT/StaffShift-Wiki/main/release/banner.png)
 
 **A modern, high-performance, and secure Staff Duty & Freeze plugin for Paper 1.21+**  
 *Designed from the ground up for server administrators and moderators who demand uncompromising performance, zero data-loss, and an airtight moderation workflow.*
@@ -51,6 +51,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | `/staffshift` | `/ss`, `/duty`, `/adminduty` | Toggle your own staff duty mode | `staffshift.staff` | `op` |
 | `/staffshift <player>` | `/ss <player>`, `/duty <player>` | Force toggle staff mode for another player | `staffshift.admin` | `op` |
+| `/staffshift inspect [player]` | `/ss inspect [player]` | Open Player Inspector GUI for a target or yourself | `staffshift.staff` | `op` |
 | `/spec` | `/spectate` | Toggle spectator / x-ray mode while on duty | `staffshift.staff` | `op` |
 | `/staffshift list` | `/ss list`, `/duty list` | View all staff members currently on duty | `staffshift.staff` | `op` |
 | `/staffshift setspawn` | `/ss setspawn` | Set staff spawn tool coordinates to current location | `staffshift.admin` | `op` |
