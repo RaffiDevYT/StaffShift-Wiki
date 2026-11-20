@@ -1,0 +1,29 @@
+# Closed Source - Source Code & Build Files
+src/
+gradle/
+gradlew
+gradlew.bat
+build.gradle
+settings.gradle
+.gradle/
+build/
+*/build/
+
+# Binary Releases & Raw Assets
+release/*.jar
+release/raw-assets/
+
+# Test Server
+test-server/
+
+# IDE & Editor Files
+.idea/
+*.iml
+.vscode/
+*.ipr
+*.iws
+
+# OS / Temporary files
+.DS_Store
+Thumbs.db
+*.log
