@@ -10,4 +10,4 @@
 
 ---
 * 📦 [Modrinth Releases](https://modrinth.com/plugin/staffshift)
-* 🐛 [Issue Tracker](https://github.com/RaffiDevYT/StaffShift-Wiki/issues)
+* 🐛 [Issue Tracker](https://github.com/RaffiDevYT/StaffShiftt-Wiki/issues)

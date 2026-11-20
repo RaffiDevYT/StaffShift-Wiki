@@ -1,6 +1,6 @@
 <div align="center">
 
-![StaffShift Banner](https://raw.githubusercontent.com/RaffiDevYT/StaffShift-Wiki/main/release/banner.png)
+![StaffShift Banner](https://raw.githubusercontent.com/RaffiDevYT/StaffShiftt-Wiki/main/release/banner.png)
 
 # StaffShift Documentation 🛡️
 
