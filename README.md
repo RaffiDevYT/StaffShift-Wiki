@@ -54,5 +54,5 @@ Official binaries and release assets are distributed via Modrinth:
 ## 🐛 Issues & Support
 
 Encountered a bug or have a feature request?
-* Open an issue on our [Issue Tracker](https://github.com/RaffiDevYT/StaffShiftt-Wiki/issues).
+* Open an issue on our [Issue Tracker](https://github.com/RaffiDevYT/StaffShift-Wiki/issues).
 * Provide server platform, version (`/version`), and relevant console logs.
